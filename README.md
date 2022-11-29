@@ -8,8 +8,8 @@
 ### 🛠Tech Stack🔧
 #### Techs that I've used at least once
 <div align='center'>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Rasa-2.8"></a>&nbsp
+<a><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <a href=""><img src="https://img.shields.io/badge/style=flat-square&logo=Rasa&logoColor=#5A17EE"/></a>&nbsp
 </div>
 
 <!--
