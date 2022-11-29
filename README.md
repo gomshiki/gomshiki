@@ -8,7 +8,6 @@
 
 <div align="center">
   <h3>🛠 Experienced Tech Stack 🔧</h3>
-  <hr>
 </div>
 <div align='center'>
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
