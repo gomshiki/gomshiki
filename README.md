@@ -7,9 +7,9 @@
 <br>
 
 <div align="center">
-  <h4>🛠Tech Stack🔧</h4>
-   <h4>Techs that I've used at least once</h4>
-  </div>
+  <h3>🛠 Experienced Tech Stack 🔧</h3>
+  <hr>
+</div>
 <div align='center'>
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/RASA2.8-5A17EE?style=for-the-badge&logo=Rasa&logoColor=#5A17EE"/>
