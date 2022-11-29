@@ -8,10 +8,12 @@
 ### 🛠Tech Stack🔧
 #### Techs that I've used at least once
 <div align='center'>
-<a><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<a><img src="https://img.shields.io/badge/RASA-5A17EE?style=flat-square&logo=Rasa&logoColor=#5A17EE"/></a>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RASA-5A17EE?style=flat-square&logo=Rasa&logoColor=#5A17EE"/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
 <!--
