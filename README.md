@@ -19,9 +19,9 @@
 </div>
 
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="center" src="![gomshiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomshiki&show_icons=true&theme=transparent)" />
-</a>
+
+![gomshiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomshiki&show_icons=true&theme=transparent)"
+
 
 
 
