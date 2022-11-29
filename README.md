@@ -19,7 +19,7 @@
 </div>
 
 <br>
-<div aling="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gomshiki&theme=tokyonight&show_icons=true" width="42%" />
 </div>
 
