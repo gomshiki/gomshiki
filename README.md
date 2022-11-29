@@ -23,3 +23,9 @@
   <img src="![gomshiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomshiki&show_icons=true&theme=transparent"/>
 </div>
 
+<a href="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomshiki&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="">
+  <img src="https://github-readme-stats.vercel.app/api?username=gomshiki&theme=tokyonight&show_icons=true" width="42%" />
+</a>
