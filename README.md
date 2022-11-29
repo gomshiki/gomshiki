@@ -4,9 +4,10 @@
 ##### I'm Junseong Kim🐻, Backend developer🖥 from South Korea, currently looking for a job!👜
 
 
-<div align='center'>
+
 ### 🛠Tech Stack🔧
 #### Techs that I've used at least once
+<div align='center'>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 </div>
 
