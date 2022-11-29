@@ -20,8 +20,10 @@
 
 <br>
 
-![gomshiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomshiki&show_icons=true&theme=transparent)"
+![gomshiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomshiki&show_icons=true&theme=transparent)
 
-
+a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gomshiki&repo=convoychat" />
+</a>
 
 
