@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Welcome%20to%20my%20page&fontSize=40)
 
-<hr>
+<br>
 <h2 align="center">다양함보단 깊이있게 👋</h3>
 <h3 align="center">백엔드 개발자 김준성 입니다.🐻</h2>
-<hr>
-<hr>
+<br>
+<br>
 
 <div align="center">
   <h4>🛠Tech Stack🔧</h4>
