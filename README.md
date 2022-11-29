@@ -19,8 +19,8 @@
 </div>
 
 <br>
-<div align="center">
+
   ![gomshiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomshiki&show_icons=true&theme=transparent)
-</div>
+
 
 
