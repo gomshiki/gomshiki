@@ -1,7 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Hi%20Nice%20to%20meet%20you&fontSize=40)
 
 ##### Welcome to my page!! 👋
-##### I'm Junseong Kim, Backend developer from South Korea ![image](https://user-images.githubusercontent.com/105576721/204462124-4efff751-4274-4c9d-8d46-1a09a6ab6783.png), currently looking for a job!
+##### I'm Junseong Kim🐻, Backend developer🖥 from South Korea, currently looking for a job!👜
+
+
+<div align='center'>
+### 🛠Tech Stack🔧
+#### Techs that I've used at least once
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+</div>
 
 <!--
 **gomshiki/gomshiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
