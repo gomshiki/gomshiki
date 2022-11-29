@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Hi%20Nice%20to%20meet%20you&fontSize=40)
 
 ### Welcome to my page!! 👋
-### I'm Junseong Kim, Backend developer from South Korea:kr:, currently looking for a job!
+### I'm Junseong Kim, Backend developer from South Korea ![image](https://user-images.githubusercontent.com/105576721/204462124-4efff751-4274-4c9d-8d46-1a09a6ab6783.png), currently looking for a job!
 
 <!--
 **gomshiki/gomshiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...![Uploading image.png…]()
+
 -->
 
 
