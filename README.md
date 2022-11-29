@@ -26,8 +26,11 @@
 <div align="center">
 <h3> 🙋‍♂️ About me 🙋‍♀️ </h3>
 </div>
+<br>
 <div align='center'>
-  <img src="https://img.shields.io/badge/Tistory-1572B6?style=for-the-badge&logo=Tistory&logoColor=#000000"/>
+  <a href="https://better-tomorrow-than-today.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-1572B6?style=for-the-badge&logo=Tistory&logoColor=#000000"/>
+  </a>
 </div>
 
 
