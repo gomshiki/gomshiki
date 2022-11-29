@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Hi%20Nice%20to%20meet%20you&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Welcome%20to%20my%20page&fontSize=40)
 
-##### Welcome to my page!! 👋
-##### I'm Junseong Kim🐻, Backend developer🖥 from South Korea, currently looking for a job!👜
+##### 다양함보단 깊이있게 👋
+##### 백엔드 개발자 김준성 입니다.🐻 현재 구직중에 있습니다.
 
 
 
@@ -9,6 +9,7 @@
 #### Techs that I've used at least once
 <div align='center'>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Rasa-2.8"></a>&nbsp
 </div>
 
 <!--
