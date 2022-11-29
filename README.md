@@ -22,6 +22,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gomshiki&theme=tokyonight&show_icons=true" width="42%" />
 </div>
+<br>
+<div align="center">
+<h3> 🙋‍♂️ About me 🙋‍♀️ </h3>
+</div>
+<div align='center'>
+  <img src="https://img.shields.io/badge/Tistory-1572B6?style=for-the-badge&logo=Tistory&logoColor=#000000"/>
+</div>
 
 
 
