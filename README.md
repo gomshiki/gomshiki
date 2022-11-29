@@ -20,7 +20,7 @@
 
 <br>
 
-  ![gomshiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomshiki&show_icons=true&theme=transparent)
+ <img align="center" src="![gomshiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomshiki&show_icons=true&theme=transparent)"/>
 
 
 
