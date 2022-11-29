@@ -9,7 +9,7 @@
 #### Techs that I've used at least once
 <div align='center'>
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RASA-5A17EE?style=for-the-badge&logo=Rasa&logoColor=#5A17EE"/>
+  <img src="https://img.shields.io/badge/RASA2.8-5A17EE?style=for-the-badge&logo=Rasa&logoColor=#5A17EE"/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
