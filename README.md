@@ -9,7 +9,7 @@
 #### Techs that I've used at least once
 <div align='center'>
 <a><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <a href=""><img src="https://img.shields.io/badge/?style=flat-square&logo=Rasa&logoColor=#5A17EE"/></a>&nbsp
+  <a href=""><img src="https://img.shields.io/badge/Rasa-#5A17EE?style=flat-square&logo=Rasa&logoColor=#5A17EE"/></a>&nbsp
 </div>
 
 <!--
