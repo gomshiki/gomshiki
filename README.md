@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi%Nico%20to%20meet%20you&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%Nice%20to%20meet%20you&fontSize=40)
 
 ### Hi there 👋
 
