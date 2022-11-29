@@ -19,11 +19,7 @@
 </div>
 
 <br>
-
-![gomshiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomshiki&show_icons=true&theme=transparent)
-
-<a href="https://github.com/gomshiki/DoWooRi_RASA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gomshiki&repo=convoychat" />
-</a>
-
+<div aling="center">
+<img src="![gomshiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomshiki&show_icons=true&theme=transparent")
+</div>
 
