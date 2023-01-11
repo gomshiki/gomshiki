@@ -31,6 +31,9 @@
   <a href="https://better-tomorrow-than-today.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-1572B6?style=for-the-badge&logo=Tistory&logoColor=#000000"/>
   </a>
+  <a href="https://fanatical-snail-b1d.notion.site/12ab787540764bbd81fdcbb08150decf">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=#000000"/>
+  </a>
 </div>
 
 
