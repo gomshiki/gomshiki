@@ -19,9 +19,9 @@
 </div>
 
 <br>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gomshiki&theme=tokyonight&show_icons=true" width="42%" />
-</div>
+</div> -->
 <br>
 <div align="center">
 <h3> 🙋‍♂️ About me 🙋‍♀️ </h3>
