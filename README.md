@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Welcome%20to%20my%20page&fontSize=40)
 
 <br>
-<h2 align="center">풀스택 개발자를 목표로 항해중인 👋</h3>
-<h3 align="center">개발자 김준성 입니다.🐻</h2>
+<h2 align="center">🐻항해중인 개발자 김준성 입니다. 👋</h3>
 <br>
 <br>
 
