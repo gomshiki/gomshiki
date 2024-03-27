@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Welcome%20to%20my%20page&fontSize=40)
 
 <br>
-<h2 align="center">🐻항해중인 개발자 김준성 입니다. 👋</h3>
+<h2 align="center">🐻선박설계 엔지니어에서 개발자로 전직중인 김준성 입니다. 👋</h3>
 <br>
 <br>
 
